@@ -1,0 +1,51 @@
+package Homework4;
+
+import java.util.Scanner;
+
+public class LeftDiagonalElements {
+
+    static int sumOfLeftDiagonalElements(int size, int[][] arr) {
+
+        int sum = 0;
+
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
+                if (i == j) {
+                    sum += arr[i][j];
+                }
+            }
+        }
+
+        return sum;
+    }
+
+    public static void main(String[] arg) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter size of array: ");
+        int size = sc.nextInt();
+
+
+        int[][] arr = new int[size][size];
+
+        System.out.println("Enter array elements: ");
+
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
+                arr[i][j] = sc.nextInt();
+            }
+        }
+
+//        Display the array
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
+                System.out.print(arr[i][j] + " ");
+            }
+            System.out.println();
+        }
+
+        System.out.println("Sum of left diagonal elements: " + sumOfLeftDiagonalElements(size, arr));
+    }
+}
+
