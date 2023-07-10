@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320511b9-aeb7-49c7-b817-b4f51b39ebf2" name="Changes" comment="&quot;java practice 20-23-24&quot;">
-      <change beforePath="$PROJECT_DIR$/hashing-algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/hashing-algorithms" afterDir="false" />
-    </list>
+    <list default="true" id="320511b9-aeb7-49c7-b817-b4f51b39ebf2" name="Changes" comment="&quot;Unversioned Files&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,7 @@
       <workItem from="1688888652383" duration="303000" />
       <workItem from="1688888979304" duration="23000" />
       <workItem from="1688889015880" duration="839000" />
+      <workItem from="1688992169261" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;java practice 1-11&quot;">
       <created>1688888678208</created>
@@ -101,7 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1688991923734</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;hashing-algorithms&quot;">
+      <created>1688992266171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992266171</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Unversioned Files&quot;">
+      <created>1688992335091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992335091</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;Unversioned Files&quot;">
+      <created>1688992419258</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992419258</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +132,8 @@
     <MESSAGE value="&quot;java practice 1-11&quot;" />
     <MESSAGE value="&quot;java practice 11-15&quot;" />
     <MESSAGE value="&quot;java practice 20-23-24&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;java practice 20-23-24&quot;" />
+    <MESSAGE value="&quot;hashing-algorithms&quot;" />
+    <MESSAGE value="&quot;Unversioned Files&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Unversioned Files&quot;" />
   </component>
 </project>
