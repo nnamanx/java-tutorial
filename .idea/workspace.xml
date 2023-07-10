@@ -4,114 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320511b9-aeb7-49c7-b817-b4f51b39ebf2" name="Changes" comment="&quot;java practice 11-15&quot;">
-      <change afterPath="$PROJECT_DIR$/hashing-algorithms" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/lesson20-SerializationAndReflection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/out/production/lesson20-SerializationAndReflection/deserializer/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/out/production/lesson20-SerializationAndReflection/deserializer/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/out/production/lesson20-SerializationAndReflection/serializer/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/out/production/lesson20-SerializationAndReflection/serializer/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/out/production/lesson20-SerializationAndReflection/userInfo.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/src/deserializer/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/src/deserializer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/src/serializer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/src/serializer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20-SerializationAndReflection/src/userInfo.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/lesson23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/out/production/lesson23/JavaStreamExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/out/production/lesson23/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23-functionalProgramming/src/JavaStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson24-postgres/console.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson24-postgres/updatedConsole.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/Homework4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/CountElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/DivFive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/Even.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/InvertedRightTriangleWithStars.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/LeftDiagonalElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/Odd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/PalindromeString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/PrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/ReverseRightDiagonalElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/RightDiagonalElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/RightTriangleWithStars.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/SquareMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/StarMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/SumOfDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/SumOfElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/UserName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/out/production/Homework4/Homework4/VowelAndConsonantCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/CountElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/DivFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/InvertedRightTriangleWithStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/LeftDiagonalElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/ReverseRightDiagonalElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/RightDiagonalElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/RightTriangleWithStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/SquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/StarMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/SumOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/UserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4 2/src/Homework4/VowelAndConsonantCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/Homework4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/CountElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/DivFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/Even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/InvertedRightTriangleWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/LeftDiagonalElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/Odd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/PalindromeString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/ReverseRightDiagonalElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/RightDiagonalElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/RightTriangleWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/SquareMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/StarMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/SumOfElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/UserName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/out/production/Homework4/Homework4/VowelAndConsonantCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/CountElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/DivFive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/Even.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/InvertedRightTriangleWithStars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/LeftDiagonalElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/Odd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/PalindromeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/ReverseRightDiagonalElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/RightDiagonalElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/RightTriangleWithStars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/SquareMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/StarMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/SumOfDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/SumOfElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/UserName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Homework4/VowelAndConsonantCharacters.java" beforeDir="false" />
+    <list default="true" id="320511b9-aeb7-49c7-b817-b4f51b39ebf2" name="Changes" comment="&quot;java practice 20-23-24&quot;">
+      <change beforePath="$PROJECT_DIR$/hashing-algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/hashing-algorithms" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +50,7 @@
       <updated>1688887585378</updated>
       <workItem from="1688888652383" duration="303000" />
       <workItem from="1688888979304" duration="23000" />
-      <workItem from="1688889015880" duration="713000" />
+      <workItem from="1688889015880" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;java practice 1-11&quot;">
       <created>1688888678208</created>
@@ -193,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688889128679</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;java practice 20-23-24&quot;">
+      <created>1688991902180</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688991902180</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;java practice 20-23-24&quot;">
+      <created>1688991923734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688991923734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +111,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;java practice 1-11&quot;" />
     <MESSAGE value="&quot;java practice 11-15&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;java practice 11-15&quot;" />
+    <MESSAGE value="&quot;java practice 20-23-24&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;java practice 20-23-24&quot;" />
   </component>
 </project>
